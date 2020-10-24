@@ -1,0 +1,57 @@
+Signin requirements are :
+Name:
+Age (must):
+Email or cell #:
+City:
+Martial status :
+Occupation: select 1
+student/workingwomen/housewife
+
+For UI/UX:
+
+Total Number of Pages : 9
+
+----Overview Of Page Contents-------
+
+Page 1 : Sign Up or Login
+Page 2 : Submit Required Details
+Page 3 : Menu
+         i- Mentors 
+         ii- Professionals
+         iii- Suicide Helpline
+         iv- Learn & Aware
+         v- Youth Table Talk Groups
+         vi- Govermental & Non Govermentals Firms
+
+Page 4 : ( menu option 1 - Mentors )
+
+List of people with name & Designation-field-contact #
+ 
+Page 5 : ( menu option 2 - Professionals ) Categorized in following
+
+     Lawyers 
+     Advocates
+     Doctors 
+     Psychiatrists
+
+List of professionals with name & Designation-field-contact # in each category
+
+Page 6 : ( menu option 3 - Suicide Helpline ) 
+
+Through Direct call
+Through Message Sessions
+
+Page 7 : ( menu option 4 -  Learn & Aware )
+
+Blogs , Topics & Articles related to mental health issues
+
+Page 8 : ( menu option 5 - Youth table talk groups )
+
+join a group
+invite friends
+
+page 9 : ( menu option 5 - Govermental & Non Govermentals Firms )
+
+list of ngo's with gmap , contact & address
+law enforcing agencies gmap , contact & address
+cyber crime contact & address
